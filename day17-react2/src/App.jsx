@@ -1,7 +1,12 @@
 
 import './App.css'
+import DarkMode from './components/DarkMode';
 import FruitList from './components/FruitList';
+import LikeButton from './components/LikeButton';
+import NameChage from './components/NameChage';
 import Test1 from './Test/Test1';
+import UseStateEx1 from './useStateTest/UseStateEx1';
+import UseStateEx2 from './useStateTest/UseStateEx2';
 
 function App() {
   // 배열을 props로 넘기기
@@ -25,7 +30,14 @@ function App() {
 
   return (
     <>
-      <Test1 />
+      {/* <UseStateEx1 /> */}
+      <UseStateEx2 />
+      <LikeButton />
+      <NameChage />
+      <DarkMode />
+
+
+      {/* <Test1 /> */}
 
 
       {/* 객체 형태 */}

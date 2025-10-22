@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.major{
+  border: 1px solid;
+  padding: 1rem;   /*1rem*/
+  background: #1b1e26;
+  color:white;
+  border-radius: 1rem;
+}
+
+.major-parent{
+  display: flex;
+  gap: 0.5rem;
+}

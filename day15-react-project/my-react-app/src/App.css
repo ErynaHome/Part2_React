@@ -1,0 +1,16 @@
+/* app.css 안에 모든 내용 삭제하기! */
+
+.box{
+  width: 100%;
+  height: 200px;
+
+  background: lightcoral;
+}
+.box2{
+  width: 500px;
+  height: 500px;
+  background: lightgreen;
+  text-align: center;
+  line-height: 100px;
+
+}

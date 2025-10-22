@@ -1,0 +1,13 @@
+/* index.css 삭제 */
+/* 전체 웹페이지에 공통적으로 설정 */
+
+*{
+    box-sizing: border-box;
+    
+}
+
+/* @media (max-width: 600px){
+ *{
+    font-size: 10px;
+ }
+} */
